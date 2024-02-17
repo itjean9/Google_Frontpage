@@ -1,0 +1,53 @@
+
+
+ .main {
+    margin-top: 100px;
+    text-align: center;
+ }
+
+
+.search {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    display: block;
+
+    /*
+    challenge 
+    Design the search field according to the spec 
+    */  
+     height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid rgb(13, 16, 18);
+    border-radius: 24px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     width: 300px;
+    display: block;
+    margin-bottom: 15px;
+    
+    
+}
+
+.btn{
+    margin-top: 30px;
+    background: #dfe1e5;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+     
+}
+
+
+ 
